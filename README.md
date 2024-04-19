@@ -1,7 +1,7 @@
 # marketer
 
 ## Welcome to My Portfolio
-I am Kushal Bhosale, a marketer with over 4 years of experience in the education sector. I have a PGP from ISB with a majors in marketing and specialization in public policy. I am keenly interested in branding, digital marketing, and Go-To-Market strategies.  
+I am Kushal Bhosale, a marketer with over 4 years of experience in the education sector. I have a <span style="color: blue;">PGP from ISB</span> with a majors in marketing and specialization in public policy. I am keenly interested in branding, digital marketing, and Go-To-Market strategies.  
 
 ## Overview
 This portfolio showcases a selection of my marketing and consulting projects, highlighting my approach to creating impactful campaigns and strategies.  
